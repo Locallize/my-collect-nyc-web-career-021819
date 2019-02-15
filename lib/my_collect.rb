@@ -1,7 +1,7 @@
 def my_collect (array)
 counter = 0  
-# new_array = []
-upcase_array = []
+new_array = []
+# upcase_array = []
 
 while counter < array.length
 new_array << yeild (array[counter].split(" ").first)
