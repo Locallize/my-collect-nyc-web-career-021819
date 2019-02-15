@@ -7,12 +7,4 @@ while counter < array.length
 new_array << yield(array[counter].split(" ").first)
 counter += 1
 end
-new_array
 
-# while counter < array.length
-# upcase_array << yield(array[counter])
-# counter += 1
-# end
-# upcase_array
-
-end
