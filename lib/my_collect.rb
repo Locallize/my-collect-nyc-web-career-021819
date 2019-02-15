@@ -9,10 +9,10 @@ counter += 1
 end
 new_array
 
-while counter < array.length
-upcase_array << new_array[counter].upcase
-counter += 1
-end
-upcase_array
+# while counter < array.length
+# upcase_array << new_array[counter].upcase
+# counter += 1
+# end
+# upcase_array.
 
 end
