@@ -13,6 +13,6 @@ while counter < array.length
 upcase_array << yield(array[counter])
 counter += 1
 end
-upcase_array.
+upcase_array
 
 end
