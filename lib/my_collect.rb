@@ -4,7 +4,7 @@ new_array = []
 # upcase_array = []
 
 while counter < array.length
-new_array << yeild(array[counter].split(" ").first)
+new_array << yield(array[counter].split(" ").first)
 counter += 1
 end
 new_array
