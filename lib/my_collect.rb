@@ -10,7 +10,7 @@ upcase_array = []
 # new_array
 
 while counter < array.length
-upcase_array << yield array[counter]
+upcase_array << yield(array[counter])
 counter += 1
 end
 upcase_array.
