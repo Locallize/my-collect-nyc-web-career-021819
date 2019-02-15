@@ -1,6 +1,6 @@
 def my_collect (array)
 counter = 0  
-new_array = []
+# new_array = []
 upcase_array = []
 
 # while counter < array.length
