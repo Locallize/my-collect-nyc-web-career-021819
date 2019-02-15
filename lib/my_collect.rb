@@ -15,6 +15,6 @@ counter += 1
 end
   new_array
   upcase_array
-  array
+  
 end
 
